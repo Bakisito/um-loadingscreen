@@ -1,11 +1,10 @@
-- Arreglado Mina.
-- Arreglado blips de mecanicos.
-- Arreglado bombas de gasolina.
-- Agregado funcionalidad en bombas faltate (groove street).
-- Se normalizo tiempo de cobro de los moteles. 
-- Agregado sistema de rentas de vehiculos, botes y aviones.
-- Configurado sistema de radial menu para EMS.
-- Configurado sistemas de dispatch para EMS.
-- Agregado frecuencia para EMS (311)
-- Traducido el dispacth y radio.
-- Agregado tienda VIP
+- Modificado la velocidad registrada para las multas
+- Se modifico el monto retirado en el garage para retirar un auto
+- Se elimino bug que permitia duplicar bolsas de basura por abuso.
+- Se aumento tiempo de vida de los celulares.
+- Se actualizo trabajos de los mecanicos (verificar preview)
+- Se actualizo la radio.
+- Se elimino las enfermedades.
+- Se agrego lockpicks a los mecanicos.
+- Se le subio la ganancias al trabajo de constructor
+- Se le subio la ganancias al trabajo de leñador
